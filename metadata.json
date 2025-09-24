@@ -1,0 +1,5 @@
+{
+  "name": "AI Islamic Telegram Poster",
+  "description": "An application to automatically generate and post Islamic religious content (text) to a Telegram channel using AI.",
+  "requestFramePermissions": []
+}
